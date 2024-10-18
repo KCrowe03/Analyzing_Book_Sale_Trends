@@ -5,9 +5,11 @@ For the last 10 years I have had a personal goal of reading 200 books per year i
 This project analyzes trends in book sales across different formats (physical, Kindle, audiobooks) using datasets from Kaggle. It focuses on understanding patterns related to book ratings, reviews, and pricing, to provide insights into the most profitable formats and the impact of book ratings on sales.
 
 1. Book Sales Dataset (First 100k rows)
+https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m
 Contains fields: book title, author, price, ratings, reviews, and more.
 Source: Kaggle Dataset - Book Sales 100k
-2. Amazon Kindle Books Dataset 2023
+3. Amazon Kindle Books Dataset 2023
+https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books
 Contains fields:information on Kindle book sales, ratings, and more.
 Source: Kaggle Dataset - Kindle Books
 
